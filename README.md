@@ -6,7 +6,7 @@ Very simple setup to start testing a bundle of [Elasticsearch](https://www.elast
 
 - Docker
 
-## Running Instructions
+## Dev Running Instructions
 
 1. `docker-compose build`
 2. `docker-compose up`
