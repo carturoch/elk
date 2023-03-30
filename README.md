@@ -2,7 +2,7 @@
 
 Very simple setup to start testing a bundle of [Elasticsearch](https://www.elastic.co/products/elasticsearch), [Logstash](https://www.elastic.co/products/kibana) and [Kibana](https://www.elastic.co/products/logstash) on `7.0.1` version. The default ingestion point for [Logstash](https://www.elastic.co/products/kibana) is set to `udp://localhost:12201`.
 
-## Requirements
+## Cool Requirements
 
 - Docker
 
